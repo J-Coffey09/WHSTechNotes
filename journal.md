@@ -1,3 +1,6 @@
+# September 5, 2025
+The sensor I'll choose is the acceloration sesnor. This can be used in "if" blocks to have alternate commands based on the acceleration of the sphero. This can be increased by;tossing the sphero, rolling it faster, or even carrying it around.
+As stated prior, this can be placed in "If" blocks, so you could say something along the lines of. "if accelorometer>2, then play random animal noise."
 # September 10, 2024
 This is a Sample Entry.
 
