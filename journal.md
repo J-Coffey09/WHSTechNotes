@@ -26,3 +26,6 @@ Coding is as much an art of patience as it is an art of computer science, so whe
 AI has the potential to make our lives easier, but can also destory our lives in a matter of seconds.
 AI has many benefits, such as being able to make it's own, rational, choices. This can help make jobs easier with automation, and even being a helpful guide on the right decisions (if you trust a computer THAT much...) As well as being able to be transferred into a robot, to make physical choices as well, without sustaing much harm to the brain of the machine.
 AI, however good the benefits are, can be extremely damaging. It's ability to make decisions for itself could make security a concern, as it could worm into your systems and leak it out. Also, AI could decide at any moment to just ditch an idea, the only thing stopping it being the call-and-response style of code we've made them have...
+
+# October 28, 2024
+With the elections on the rise, technology an be a concern. Of course, we can't fully trust technology for everything, and if people found a way to hack into it, they could rig the ellection. However, the automation of the process means we will know whos president sooner, so theres some upsides I suppose.
