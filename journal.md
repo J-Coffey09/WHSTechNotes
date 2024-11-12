@@ -29,3 +29,6 @@ AI, however good the benefits are, can be extremely damaging. It's ability to ma
 
 # October 28, 2024
 With the elections on the rise, technology an be a concern. Of course, we can't fully trust technology for everything, and if people found a way to hack into it, they could rig the ellection. However, the automation of the process means we will know whos president sooner, so theres some upsides I suppose.
+
+# November 12, 2024
+A recent event in my life, an ongoing issue, has been my busy schedule. This has lead to some mental issues on my end, having to balance tennis, theatre, and my personal/school life. It felt like the weekends were consumed by my electives, but I got through it all thanks to problem solving, like that found in coding. In a sense, I guess you could say I debugged my life.
