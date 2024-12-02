@@ -32,3 +32,6 @@ With the elections on the rise, technology an be a concern. Of course, we can't 
 
 # November 12, 2024
 A recent event in my life, an ongoing issue, has been my busy schedule. This has lead to some mental issues on my end, having to balance tennis, theatre, and my personal/school life. It felt like the weekends were consumed by my electives, but I got through it all thanks to problem solving, like that found in coding. In a sense, I guess you could say I debugged my life.
+
+# December 02, 2024
+AI is a form of technology that has grown majorly during the 1950's, to the way we have it today. Nowadays, you can ask a computer, or websites such as ChatGPT, anything and they can come up with a clever response to any issue. AI truely is smart, so smart even, that it could help with coding. In coding, a lot of brainpower is used and you might need assistance trying to find a solution to your issue. AI could come up with about a million ways to fix the issue you have, and then some. A huge thing we need to keep in mind however, is that people could also use AI to try and get to places they shouldn't. We see it nowadays in high school, where people would cheat on a test by using AI websites to get answers. This is a problem we should try to fix sometime soon. 
