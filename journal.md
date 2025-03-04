@@ -45,3 +45,11 @@ I feel that the growth of AI will severely hinder workers in many fields includi
 # February 25, 2025
 Language is a complex thing, with it being a barrier to some and an oppertunity to others. For people who interact with the new generation, such as teachers, counselers, and social workers, understanding the current slang can help forge bonds with their kids, or their clients. As of now, understanding slang is difficult, but not impossible, with tools such as the slang dictionary and more. 
 However, it isnt as simple as "just learning" it. As with any language, being fluent and understanding are two completely different things, and in order to aid those with minimal mastery of the language, we should have a translator. But, of course, it's not as easy as that, as someone would have to keep the dictionary updated with all the current slang, while getting rid of the older, outdated words. As for whether or not teachers should teach appopriate slang, I believe not.  feel that slang, along with how you dress, act, and what you do, help convey who you are. Both to youself, and others whom you bless with your presence. Slang being as informal as it is allows for more character in the way one speaks, and that is something thats underappreciated. The lack of adults who understand todays slang can be both a blessing and a curse, as on one hand, it gives current teenagers or young children the exclusivity that we all want so dearly, but that exclusivity can cause rifts with day to day interactions with teachers and parents, as they could say something offensive to the current day. Like for example, way back when, the wrd "Gay" just meant happy. So when someone would say "That's so gay" it would mean something along the lines of being happy. But nowadays, its an insult. Alontg with some of todays slurs, which were commonplace a couple years ago. Slang, and olanguage as a whole, can prove to be a barrier, bu it also provides the exclusitvity that everyone desires... maybe it's a topic best left off the mortal tounge? 
+# March 03, 2025
+| Name   |  Power    |   Challenge  |
+| -------|-----------|--------------|
+|   zara |  Invisibility| Extract Prisoner|
+|Aether   | Telekenis|  Secure Nuilding|
+|Thorne  | Mind Control | |Retreive Stolen Goods|
+|Silver   | Wether Manipulation| Prevent Assasination|
+| Tangier | Shapshifting| Underwater Rescue|
