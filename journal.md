@@ -52,4 +52,8 @@ However, it isnt as simple as "just learning" it. As with any language, being fl
 |Aether   | Telekenis|  Secure Nuilding|
 |Thorne  | Mind Control | |Retreive Stolen Goods|
 |Silver   | Wether Manipulation| Prevent Assasination|
-| Tangier | Shapshifting| Underwater Rescue|
+| Tangier | Shapshifting| Underwater Rescue|+
+
+# April 07, 2025
+An AI tutor would be helpful for me as I suffer from a painful disease called people pleaser syndrome. And if I am talking to an AI my fear of hurting a person will be sated.
+
