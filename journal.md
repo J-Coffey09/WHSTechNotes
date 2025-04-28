@@ -61,4 +61,4 @@ An AI tutor would be helpful for me as I suffer from a painful disease called pe
 | -------|-----------|--------------| --------------|
 |   Sally |  Chocolate| Graduation|  $35|
 |Micheal   | Vanilla|  Farewell party|  $37|
-|Emma  | Carrot| |Birthday| $38|
+|Emma  | Carrot |Birthday| $39|
