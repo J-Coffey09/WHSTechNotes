@@ -56,4 +56,9 @@ However, it isnt as simple as "just learning" it. As with any language, being fl
 
 # April 07, 2025
 An AI tutor would be helpful for me as I suffer from a painful disease called people pleaser syndrome. And if I am talking to an AI my fear of hurting a person will be sated.
-
+# April 28, 2025
+| Name   |  Flavor    |   Occasion  |  price  | 
+| -------|-----------|--------------| --------------|
+|   Sally |  Chocolate| Graduation|  $35|
+|Micheal   | Vanilla|  Farewell party|  $37|
+|Emma  | Carrot| |Birthday| $38|
