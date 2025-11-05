@@ -71,3 +71,10 @@ I want to talk about the cell phone law, and why I think it's more of a hindranc
 
 # September 08, 2025
 My dream careers include theatre, technical or acting, and game design. And luckily for me, I'm being trained in the area that dominates all others in today's society. Computer Science. Computer science is a field that is constantly growing with todays age. The age of technology has obvious benefits for those knowledgable in the art of computer science. Technical theater relies on computers, no kidding. So having the ability to program lights is useful in theater. 
+
+# October 20, 2025
+|Franklin|Second|	91A|
+|Hardeep|Third|	61F|
+|Marla|First|	35B|
+|
+|
