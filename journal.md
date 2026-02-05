@@ -102,3 +102,6 @@ Autcraft was a "safe place" on the internet, of which there are few. But I propo
 
 # January 20, 2026
 Humans are sheep, and our phones and acess to internet is the sheepdog. Technology and humans can mix together to create this megahorn effect, and if one person is strong willed enough, they'll find more people in their cause via the internet. Technology can create a more fair and just society if everyone works together. We all have a tool of mass destruction, reform, change, just sitting in the palms of our hands! These tools, our phones, are able to send messages from one end of the earth to the other in no time at all. This makes the spreading of information easy as pie, and allows people to spread word to make our world a more humane place for all of us. 
+
+# January 29, 2026
+Testing was fine. I think I did as well as I could, but no 'preparing' will help with that test, at least for me. It tends to be easier for me before I study and everything. (Kinda ironic buuut...) But I'm proud of what I did today, so I'm happy to be done testing. 
