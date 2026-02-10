@@ -105,3 +105,6 @@ Humans are sheep, and our phones and acess to internet is the sheepdog. Technolo
 
 # January 29, 2026
 Testing was fine. I think I did as well as I could, but no 'preparing' will help with that test, at least for me. It tends to be easier for me before I study and everything. (Kinda ironic buuut...) But I'm proud of what I did today, so I'm happy to be done testing. 
+
+# February 10, 2026
+Football, while I'm sure it's a fun sport to play, just isn't my cup of tea. I won't yuck anyone's yum, but it's just not for me. I don't like watching sports- even as a tennis player I only watch a couple tennis matches when I'm desperate to improve. And i'll watch mainly for form and other tips and tricks from the pros, not for the game itself. As such, I did not watch the superbowl, but I'm glad everyone else had fun with their superbowl parties and superbowl monday and whatever else!
