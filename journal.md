@@ -108,3 +108,8 @@ Testing was fine. I think I did as well as I could, but no 'preparing' will help
 
 # February 10, 2026
 Football, while I'm sure it's a fun sport to play, just isn't my cup of tea. I won't yuck anyone's yum, but it's just not for me. I don't like watching sports- even as a tennis player I only watch a couple tennis matches when I'm desperate to improve. And i'll watch mainly for form and other tips and tricks from the pros, not for the game itself. As such, I did not watch the superbowl, but I'm glad everyone else had fun with their superbowl parties and superbowl monday and whatever else!
+
+# April 09, 2026
+With AIs extreme rising, comes many huge issues. Namely, an issue with the fact that AI will at some point be more than we can ahndle. So what if an AI locks us up? What would we do? Well, AI doesn't have emotion, so simply using things like pathos would get you nowhere. You can't intimdate an AI, and the odds of making it beleive you are superior to it is minisculr. You're best bet lies with pathos, the art of persuausion. However, I'm simply uncertain most anyone has the ability to persuade a robot, even with a bards tongue! 
+
+
