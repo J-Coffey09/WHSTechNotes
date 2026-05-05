@@ -112,4 +112,5 @@ Football, while I'm sure it's a fun sport to play, just isn't my cup of tea. I w
 # April 09, 2026
 With AIs extreme rising, comes many huge issues. Namely, an issue with the fact that AI will at some point be more than we can ahndle. So what if an AI locks us up? What would we do? Well, AI doesn't have emotion, so simply using things like pathos would get you nowhere. You can't intimdate an AI, and the odds of making it beleive you are superior to it is minisculr. You're best bet lies with pathos, the art of persuausion. However, I'm simply uncertain most anyone has the ability to persuade a robot, even with a bards tongue! 
 
-
+# April 13, 2026
+Modern technology, as it stands, is at a standstill. I can't say it's unsafe for use in harsh terrains, such as that of space, but I also can't say that it's safe either. Technology is generally a risk, but it can be useful, despite the potential risks. One such useful technology, was the laser communications used during the Artemis II mission. This technology allowed communication that was more efficient, due to being able to push out more data in a single message,(so to speak) compared to the old radio communications they used before. The issues with the waste system, however are an example of a technology that backfired and could definitly use some work. 
